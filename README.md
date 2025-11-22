@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗧𝗢𝗫𝗜𝗖+𝗞𝗜𝗡𝗚+𝗨𝗣+🚩+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>𝐓ᴇᴀᴍ 𝐊𝐢𝐭𝐭𝐮 𝐁ᴏᴛs</b></h1>
-<p align="center"><a href="https://lll_TOXICC_PAPA_lll"><img src="https://files.catbox.moe/ppvvg0.jpg" width="500"></a></p>
+<p align="center"><a href="https://lll_TOXICC_PAPA_lll"><img src="https://files.catbox.moe/tbk4io.jpg" width="500"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
