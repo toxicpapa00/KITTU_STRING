@@ -31,7 +31,7 @@ async def start(bot: Client, msg: Message):
                     InlineKeyboardButton("▫️ ᴜᴘᴅᴀᴛᴇs▫️", url="https://t.me/KITTUU_UPDATES")
                 ],
                 [
-                    InlineKeyboardButton("🔸 sᴏᴜʀᴄᴇ 🔸", url="tg://user?id={OWNER_ID"),
+                    InlineKeyboardButton("🔸 sᴏᴜʀᴄᴇ 🔸", url="https://lll_TOXICC_PAPA_lll"),
                     InlineKeyboardButton("▫️ᴍᴜsɪᴄ ʙᴏᴛ▫️", url="https://t.me/YTXMUSIC_BOT")
                 ]                
             ]
